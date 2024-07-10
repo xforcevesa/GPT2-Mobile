@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPT2 Mobile</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="send">Send</string>
+</resources>
